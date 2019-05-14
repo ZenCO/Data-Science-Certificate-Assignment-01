@@ -5,9 +5,10 @@ Data Science Certificate - Assignment 01
 
   1. *Fork* this repository to your own within GitHub
   2. Fill in the sentence below with your information
-  3. File and Save
+  3. *File* and *Save*
   4. *Commit* your changes
   5. *Push* changes to your GitHub repository
+  6. *Save* and *Commit* and *Push* often.
 
 ### For you to fill out:  
 
